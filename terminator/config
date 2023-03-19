@@ -1,0 +1,31 @@
+[global_config]
+[keybindings]
+[profiles]
+  [[default]]
+    allow_bold = False
+    background_color = "#353635"
+    background_darkness = 0.88
+    background_type = transparent
+    cursor_shape = ibeam
+    font = Source Code Variable 11
+    foreground_color = "#cab3b3"
+    show_titlebar = False
+    scrollbar_position = hidden
+    scrollback_infinite = True
+    exit_action = hold
+    palette = "#e8e5d5:#e67e80:#a7c080:#e69875:#7fbbb3:#d699b6:#83c092:#a89984:#928374:#e67e80:#b8bb26:#e5ad94:#a0bcb8:#d7afc2:#8ec07c:#ebdbb2"
+    use_custom_command = True
+    custom_command = neofetch; zsh
+    use_system_font = False
+  [[d]]
+    cursor_shape = ibeam
+[layouts]
+  [[default]]
+    [[[window0]]]
+      type = Window
+      parent = ""
+    [[[child1]]]
+      type = Terminal
+      parent = window0
+      profile = default
+[plugins]

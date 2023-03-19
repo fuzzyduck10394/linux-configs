@@ -1,0 +1,5 @@
+1. press qa (right down corner) to start recording
+2. start using commends to be recorded
+3. press q to escape from recording
+
+4. use macro by typing <how_much>@a without enter at the end

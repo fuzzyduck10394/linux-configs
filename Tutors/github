@@ -1,0 +1,4 @@
+1. git init -b main
+2. git add . && git commit -m "nazwa commita"
+        3. git remote add origin <link>
+4. git push origin master

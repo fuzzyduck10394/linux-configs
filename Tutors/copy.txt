@@ -1,0 +1,2 @@
+xclip -sel c < input_file
+kopiowanie zawartosci pliku do schowka

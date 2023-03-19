@@ -1,0 +1,8 @@
+1. bluetoothctl
+2. power on
+3. scan on
+4. scan off
+5. pair <mac>
+6. connect <mac>
+
+LG CM: connect 08:EF:3B:5E:74:61
